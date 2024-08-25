@@ -27,8 +27,7 @@ Clone the repository:
  ```
 
 ## Demo
-
-Insert gif or link to demo
+[![Watch the video](https://screenrec.com/share/HAUhrbQFTl)](https://screenrec.com/share/HAUhrbQFTl)
 
 
 
