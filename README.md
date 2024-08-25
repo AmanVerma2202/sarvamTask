@@ -18,5 +18,9 @@ The code uses a custom mapping (custom_mapping) to convert characters to their c
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/sarvam.git
-   cd sarvam
+   git clone https://github.com/AmanVerma2202/sarvamTask.git
+   cd sarvamTask
+   pip install -r requirements.txt
+   python sarvam.py
+
+
