@@ -27,8 +27,13 @@ Clone the repository:
  ```
 
 ## Demo
-[![Watch the video](https://screenrec.com/share/HAUhrbQFTl)](https://screenrec.com/share/HAUhrbQFTl)
+[![Watch the demo video](https://screenrec.com/share/HAUhrbQFTl)](https://screenrec.com/share/HAUhrbQFTl)
 
+
+## Photos
+![Alt text of the image](https://github.com/AmanVerma2202/sarvamTask/blob/main/Screenshot%20(94).png)
+![Alt text of the image](https://github.com/AmanVerma2202/sarvamTask/blob/main/Screenshot%20(95).png)
+![Alt text of the image](https://github.com/AmanVerma2202/sarvamTask/blob/main/Screenshot%20(96).png)
 
 
 ## Tech Stack
