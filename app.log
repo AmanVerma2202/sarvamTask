@@ -1,0 +1,74 @@
+2024-08-25 13:00:04,645 - WARNING -  * Debugger is active!
+2024-08-25 13:00:04,658 - INFO -  * Debugger PIN: 126-829-525
+2024-08-25 13:00:05,360 - INFO - Starting annotation process for static\OS Question Bank.pdf
+2024-08-25 13:00:06,167 - INFO - Annotated page 1/62
+2024-08-25 13:00:06,188 - INFO - Annotated page 2/62
+2024-08-25 13:00:06,209 - INFO - Annotated page 3/62
+2024-08-25 13:00:06,230 - INFO - Annotated page 4/62
+2024-08-25 13:00:06,301 - INFO - Annotated page 5/62
+2024-08-25 13:00:06,458 - INFO - Annotated page 6/62
+2024-08-25 13:00:06,599 - INFO - Annotated page 7/62
+2024-08-25 13:00:06,699 - INFO - Annotated page 8/62
+2024-08-25 13:00:06,748 - INFO - Annotated page 9/62
+2024-08-25 13:00:06,833 - INFO - Annotated page 10/62
+2024-08-25 13:00:06,925 - INFO - Annotated page 11/62
+2024-08-25 13:00:06,991 - INFO - Annotated page 12/62
+2024-08-25 13:00:07,032 - INFO - Annotated page 13/62
+2024-08-25 13:00:07,118 - INFO - Annotated page 14/62
+2024-08-25 13:00:07,165 - INFO - Annotated page 15/62
+2024-08-25 13:00:07,265 - INFO - Annotated page 16/62
+2024-08-25 13:00:07,347 - INFO - Annotated page 17/62
+2024-08-25 13:00:07,431 - INFO - Annotated page 18/62
+2024-08-25 13:00:07,480 - INFO - Annotated page 19/62
+2024-08-25 13:00:07,498 - INFO - Annotated page 20/62
+2024-08-25 13:00:07,680 - INFO - Annotated page 21/62
+2024-08-25 13:00:07,913 - INFO - Annotated page 22/62
+2024-08-25 13:00:08,144 - INFO - Annotated page 23/62
+2024-08-25 13:00:08,259 - INFO - Annotated page 24/62
+2024-08-25 13:00:08,432 - INFO - Annotated page 25/62
+2024-08-25 13:00:08,579 - INFO - Annotated page 26/62
+2024-08-25 13:00:08,704 - INFO - Annotated page 27/62
+2024-08-25 13:00:08,878 - INFO - Annotated page 28/62
+2024-08-25 13:00:08,978 - INFO - Annotated page 29/62
+2024-08-25 13:00:09,166 - INFO - Annotated page 30/62
+2024-08-25 13:00:09,389 - INFO - Annotated page 31/62
+2024-08-25 13:00:09,577 - INFO - Annotated page 32/62
+2024-08-25 13:00:09,893 - INFO - Annotated page 33/62
+2024-08-25 13:00:10,126 - INFO - Annotated page 34/62
+2024-08-25 13:00:10,376 - INFO - Annotated page 35/62
+2024-08-25 13:00:10,726 - INFO - Annotated page 36/62
+2024-08-25 13:00:10,775 - INFO - Annotated page 37/62
+2024-08-25 13:00:11,127 - INFO - Annotated page 38/62
+2024-08-25 13:00:11,757 - INFO - Annotated page 39/62
+2024-08-25 13:00:12,073 - INFO - Annotated page 40/62
+2024-08-25 13:00:12,393 - INFO - Annotated page 41/62
+2024-08-25 13:00:12,493 - INFO - Annotated page 42/62
+2024-08-25 13:00:12,905 - INFO - Annotated page 43/62
+2024-08-25 13:00:13,204 - INFO - Annotated page 44/62
+2024-08-25 13:00:13,770 - INFO - Annotated page 45/62
+2024-08-25 13:00:14,186 - INFO - Annotated page 46/62
+2024-08-25 13:00:14,519 - INFO - Annotated page 47/62
+2024-08-25 13:00:15,318 - INFO - Annotated page 48/62
+2024-08-25 13:00:15,800 - INFO - Annotated page 49/62
+2024-08-25 13:00:16,516 - INFO - Annotated page 50/62
+2024-08-25 13:00:17,348 - INFO - Annotated page 51/62
+2024-08-25 13:00:18,280 - INFO - Annotated page 52/62
+2024-08-25 13:00:18,546 - INFO - Annotated page 53/62
+2024-08-25 13:00:18,646 - INFO - Annotated page 54/62
+2024-08-25 13:00:19,358 - INFO - Annotated page 55/62
+2024-08-25 13:00:20,676 - INFO - Annotated page 56/62
+2024-08-25 13:00:21,541 - INFO - Annotated page 57/62
+2024-08-25 13:00:21,791 - INFO - Annotated page 58/62
+2024-08-25 13:00:21,791 - INFO - Annotated page 59/62
+2024-08-25 13:00:21,791 - INFO - Annotated page 60/62
+2024-08-25 13:00:21,807 - INFO - Annotated page 61/62
+2024-08-25 13:00:21,807 - INFO - Annotated page 62/62
+2024-08-25 13:00:21,859 - INFO - Annotated PDF saved as static\annotatedoutput.pdf
+2024-08-25 13:00:21,891 - INFO - 127.0.0.1 - - [25/Aug/2024 13:00:21] "POST / HTTP/1.1" 200 -
+2024-08-25 13:00:23,417 - INFO - 127.0.0.1 - - [25/Aug/2024 13:00:23] "GET / HTTP/1.1" 200 -
+2024-08-25 13:00:30,169 - INFO - Starting annotation process for static\AMAN21BCE11658.pdf
+2024-08-25 13:00:30,388 - INFO - Annotated page 1/2
+2024-08-25 13:00:30,392 - INFO - Annotated page 2/2
+2024-08-25 13:00:30,399 - INFO - Annotated PDF saved as static\annotatedoutput.pdf
+2024-08-25 13:00:30,401 - INFO - 127.0.0.1 - - [25/Aug/2024 13:00:30] "POST / HTTP/1.1" 200 -
+2024-08-25 13:00:30,982 - INFO - 127.0.0.1 - - [25/Aug/2024 13:00:30] "GET /static/annotatedoutput.pdf HTTP/1.1" 200 -
