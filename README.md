@@ -34,7 +34,7 @@ Insert gif or link to demo
 
 ## Tech Stack
 
- **Python,Html,flask,PyMuPdf**
+ **Python,Html,Flask,Fitz(PyMuPdf)**
 
 ## Approach
 The project solves the problem of annotating PDFs with detailed information about each word's glyph by:
