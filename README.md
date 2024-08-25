@@ -39,8 +39,8 @@ Insert gif or link to demo
 ## Approach
 The project solves the problem of annotating PDFs with detailed information about each word's glyph by:
 
-**Extracting Text**: The text is extracted from the PDF using the PyMuPDF library (fitz). The text is parsed into blocks, lines, and spans to analyze individual words.
-**Mapping Glyphs**: Each Character(glyph) in the PDF is mapped to its corresponding Unicode character  using custom mappings defined in glyphMapping.py.
+**Extracting Text**: The text is extracted from the PDF using the PyMuPDF library (fitz). The text is parsed into blocks, lines, and spans to analyze individual words.<br/>
+**Mapping Glyphs**: Each Character(glyph) in the PDF is mapped to its corresponding Unicode character  using custom mappings defined in glyphMapping.py.<br/>
 **Annotating**: The application calculates the position and dimensions of each word, then adds annotations with details like font name, font size, color, position, and Unicode values. These annotations are placed on the PDF with small lines pointing to the corresponding text or character, ensuring no overlap between annotations.
 
 
